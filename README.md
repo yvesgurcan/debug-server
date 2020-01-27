@@ -1,4 +1,4 @@
-# Node/Express template
+# Node/Express microservice
 
 ## Endpoints
 
