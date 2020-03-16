@@ -1,6 +1,6 @@
 {
     "name": "node-server-template",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "📡 Node/Express server template that sends canned responses to requests.",
     "main": "server.js",
     "scripts": {
@@ -11,5 +11,8 @@
     "dependencies": {
         "express": "^4.17.1",
         "nodemon": "^2.0.2"
+    },
+    "devDependencies": {
+        "prettier": "^1.19.1"
     }
 }
