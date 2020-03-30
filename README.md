@@ -1,11 +1,11 @@
-# Node/Express microservice
+# Node microservice
 
 ## Endpoints
 
     curl http://localhost:3000/
     curl -X POST http://localhost:3000/
 
-## Dependencies
+## Main dependencies
 
 - Node
 - Express
