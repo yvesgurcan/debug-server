@@ -1,7 +1,7 @@
 {
     "name": "node-server-template",
     "version": "0.0.3",
-    "description": "📡 Node/Express server template that sends canned responses to requests.",
+    "description": "📡 Lightweight Node/Express server template that sends canned responses to requests.",
     "main": "server.js",
     "scripts": {
         "start": "nodemon server.js"
